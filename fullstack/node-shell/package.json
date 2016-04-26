@@ -1,0 +1,17 @@
+{
+  "name": "node_shell",
+  "version": "1.0.0",
+  "description": "node_shell",
+  "main": "bash.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "['node_shell']"
+  ],
+  "author": "Jon P",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
